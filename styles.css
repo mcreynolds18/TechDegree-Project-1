@@ -86,6 +86,7 @@ header .profile-image:hover {
   border-radius: 5px;
   display: table;
   margin: 10px auto;
+  font-family: 'Roboto', sans-serif;
 } 
 .location {
   background-color:rgba(255, 255, 255, .8);
@@ -243,13 +244,15 @@ a.social:hover {
     padding: 10px;
     margin: 40px;
     text-shadow:2px 2px 2px gray;
+    color: black;
   }
   
   .education-body{
     font-family:"arial";
     text-align: center;
-    color: white;
     font-size: larger;
+    color: white;
+    background-color: black;
   }  
   .education-pic{
     border: white solid 4px;
